@@ -6,13 +6,13 @@
 
 This includes the following steps:
 
-1. Define an Interface for the Thing That Needs to Be Extracted
-2. Change Calls to the Old System to Use the New System Instead
-3. Make a New Data Source for the New System If It Requires Writing
-4. Implement Writers in the New Model to Write to the New Data Source
-5. Backfill the New Data Source with Existing Data
-6. Change the Methods in the Newly Defined Interface to Read Data from the New Source
-7. Stop Writing to the Old Source and Delete Legacy Code
+1. Define an interface for the thing that needs to be extracted
+2. Change calls to the old system to use the new system instead
+3. Make a new data source for the new system if it requires writing
+4. Implement writers in the new model to write to the new data source
+5. Backfill the new data source with existing data
+6. Change the methods in the newly defined interface to read data from the new source
+7. Stop writing to the old source and delete legacy code
 
 ### Resources
 
