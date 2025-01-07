@@ -1,2 +1,7 @@
-# software_architecture_playbook
-A playbook of notes and resources on architecting software applications
+# Software Architecture Playbook
+
+## Refactoring
+
+### Resources
+
+- Article: [Strangler Fig by Martin Fowler](https://martinfowler.com/bliki/StranglerFigApplication.html)
