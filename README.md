@@ -1,5 +1,24 @@
 # Software Architecture Playbook
 
+## Deisgn Principles
+
+These are a set of guidelines for helping guide how good quality software can be written. They include the following:
+
+* Encapsulation
+* Composition over inheritance
+* Loose coupling
+* Program to interfaces
+* SOLID principles including:
+  * Single responsibility principle
+  * Open-closed principle
+  * Liskov's substitution principle
+  * Interface segregation principle
+  * Dependency inversion principle
+
+## Design Patterns
+
+These provided a set of code structures that can be used to assist with adhering to design principles
+
 ## Refactoring
 
 ### Refactor code using the Strangler pattern
