@@ -37,3 +37,4 @@ This includes the following steps:
 
 - Article: [Strangler Fig by Martin Fowler](https://martinfowler.com/bliki/StranglerFigApplication.html)
 - Artilce: [Refactoring Legacy Code with the Strangler Fig Pattern by Adrianna Chang](https://shopify.engineering/refactoring-legacy-code-strangler-fig-pattern)
+- Linkedin Course: [Advanced Desgined Patterns: Design Principles by Eric Freeman](https://www.linkedin.com/learning/advanced-design-patterns-design-principles/)
